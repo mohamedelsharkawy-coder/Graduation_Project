@@ -1,4 +1,6 @@
 # Graduation_Project
+- A a Multi-Classification Project called "DeepNEye" focused on diagnosing retinal diseases using Deep Learning technology.
+  
 The Data Science team follows the same approach done by this research paper:
 https://link.springer.com/article/10.1007/s00417-018-04224-8
 
